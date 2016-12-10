@@ -2,8 +2,8 @@
   (:require [clojure.test :as test]))
 
 (def inital_state {:miners 2 :bricks 1})
-(defn mine_alot [nr_miners] {:pre {:miners (* -1 nr_miners)}},
-                             :post {:miners (* 1 nr_miners) :bricks (* 2 nr_miners)})
+(defn mine_alot [nr_miners] {:pre {:miners (* -1 nr_miners)},
+                             :post {:miners (* 1 nr_miners) :bricks (* 2 nr_miners)}})
 (def mine (mine_alot 1))
 (def make_miner {:pre {:bricks -5}, :post {:miners 1}})
 (def example_blocks [mine mine make_miner])
