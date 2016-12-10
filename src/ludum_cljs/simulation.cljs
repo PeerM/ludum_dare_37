@@ -8,7 +8,9 @@
 (def make_miner {:pre {:bricks -5}, :post {:miners 1}})
 (def example_blocks [mine mine make_miner])
 (defn positive_bricks? [state] (<= 0 (:bricks state)))
-(def validations [{:name "bricks not negativ" :pred positive_bricks?}])
+(def validations [{:name "bricks must not be negativ" :pred positive_bricks?}
+                  {:name "miners must not negativ" :pred positive_bricks?}])
+(def relative_bricks 0)
 (defn combine_partial_states [states] (apply merge-with (concat [+] states)))
 (defn violated_validation [state validations] (filter (fn [rule] (not ((get rule :pred) state))) validations))
 (defn step [state blocks] (let [intermediate (combine_partial_states (concat (map :pre blocks) [state]))

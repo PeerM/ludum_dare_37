@@ -1,5 +1,6 @@
 (ns ludum_cljs.core
-  (:require [reagent.core :as reagent :refer [atom]]))
+  (:require [reagent.core :as reagent :refer [atom]]
+            [ludum_cljs.simulation]))
 
 (enable-console-print!)
 
