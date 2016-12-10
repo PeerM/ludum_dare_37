@@ -1,0 +1,461 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"J",
+				"jQuery"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/ludum_cljs/core.cljs",
+			"settings":
+			{
+				"buffer_size": 671,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "(ns ludum_cljs.simulation)\n(def init_state {:bricks 5 :miners 1})\n(def sim_functions {:mine {:pre}})",
+			"file": "src/ludum_cljs/simulation.cljs",
+			"file_size": 26,
+			"file_write_time": 131258591766558954,
+			"settings":
+			{
+				"buffer_size": 100,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"repl cloure uni",
+				"SublimeREPL: Clojure Unity"
+			],
+			[
+				"unity",
+				"SublimeREPL: Clojure Unity"
+			],
+			[
+				"clo",
+				"Set Syntax: Clojure"
+			],
+			[
+				"clou",
+				"Set Syntax: Clojure"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 52.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projekts/web/ludum_cljs",
+		"/D/projekts/web/ludum_cljs/src",
+		"/D/projekts/web/ludum_cljs/src/ludum_cljs"
+	],
+	"file_history":
+	[
+		"/D/projekts/web/ludum_cljs/src/ludum_cljs/core.cljs",
+		"/D/projekts/unity/ludum prep 3/Assets/cube_orbit.clj",
+		"/D/projekts/unity/ludum prep 2/Assets/cube_orbit.clj",
+		"/D/projekts/unity/ludum prep 2/Assets/Arcadia/README.md",
+		"/D/projekts/unity/ludum prep 2/Assets/Arcadia/configuration.edn",
+		"/D/projekts/unity/ludum prep 2/Assets/Arcadia/USAGE.md",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/randomore.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/SolarFluxReborn/main.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/orespawn/minecraft.proper7.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/chisel.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/IC2.ini",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/gravestone.cfg",
+		"/D/owncloud/minecraft/hsa winter server latest/config/ExtraUtils2.cfg",
+		"/D/owncloud/minecraft/hsa winter server latest/orespawn/minecraft.proper7.json",
+		"/D/owncloud/notes/telephone nummer",
+		"/D/owncloud/notes/Konto",
+		"/D/owncloud/notes/music.txt",
+		"/D/owncloud/notes/lemonheimservice",
+		"/D/installed-games/minecraft/fml-server-latest.log",
+		"/D/FTB/Curse/Instances/HSA Winter 16/orespawn/minecraft.proper6.json",
+		"/D/FTB/Curse/Instances/FTB Presents Direwolf20 1.10/config/inventorysorter.cfg",
+		"/D/FTB/Curse/Instances/FTB Presents Direwolf20 1.10/scripts/FTBPresentsDirewolf20110.zs",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/InvTweaks.cfg",
+		"/D/owncloud/minecraft/hsa winter server latest/local/ftbl.json",
+		"/D/owncloud/minecraft/hsa winter server latest/ops.json",
+		"/D/owncloud/minecraft/hsa winter server latest/whitelist.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/backups/backups.json",
+		"/M/sources.list",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/Elec's Mods/CraftingTableIV.cfg",
+		"/D/owncloud/notes/Master",
+		"/D/Program Files/Dogecoin/readme.txt",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/notenoughwands.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/actuallyadditions.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/BetterFonts.cfg",
+		"/C/Users/Peer/AppData/Local/Microsoft/Windows/INetCache/IE/UPIMBUF9/1461441255278-MANUAL[1].doc",
+		"/D/FTB/Curse/Install/launcher_profiles.json",
+		"/D/installed-games/minecraft/MultiMC/instances/hsa winter 16/patches/net.minecraftforge.json",
+		"/D/installed-games/minecraft/hsa winter server/enderio/dimensionalTransceiver.json",
+		"/D/installed-games/minecraft/hsa winter server/woot/loot.json",
+		"/D/installed-games/minecraft/MultiMC/instances/hsa winter 16/minecraft/knownkeys.txt",
+		"/D/installed-games/minecraft/MultiMC/instances/hsa winter 16/minecraft/BotaniaVars.dat",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/AppliedEnergistics2/AppliedEnergistics2.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/Woot.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/TinkerToolLeveling.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/TinkersAddons.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/ExtraUtils2.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/advancedswords.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/Psi.cfg",
+		"/C/Program Files/OpenVPN/config/cyber ghost/ghost-de.ovpn",
+		"/C/Program Files/OpenVPN/config/cyber ghost/ghost-ch.ovpn",
+		"/C/Program Files/OpenVPN/config/cyber ghost/ghost-nl.ovpn",
+		"/C/Program Files/OpenVPN/config/cyber ghost/auth.txt",
+		"/C/Program Files/OpenVPN/config/cyber ghost/client.key",
+		"/C/Program Files/OpenVPN/config/README.txt",
+		"/D/installed-games/minecraft/hsa winter server/modpack/packmodes.json",
+		"/D/installed-games/minecraft/hsa winter server/journeymap/server/5.3/journeymap.server.dim0.config",
+		"/D/installed-games/minecraft/MultiMC/instances/hsa winter 16/minecraft/orespawn/orespawn.json",
+		"/D/installed-games/minecraft/MultiMC/instances/hsa winter 16/minecraft/options.txt",
+		"/D/installed-games/minecraft/hsa winter server/splash.properties",
+		"/D/installed-games/minecraft/hsa winter server/eula.txt",
+		"/D/FTB/Curse/Instances/HSA Winter 16/knownkeys.txt",
+		"/D/installed-games/minecraft/hsa winter server/run.bat",
+		"/D/installed-games/minecraft/hsa winter server/run.sh",
+		"/D/installed-games/minecraft/hsa winter server/backups/world/Backup--world--2016-11-16--16-15.backupinfo",
+		"/D/installed-games/minecraft/hsa winter server/backups/backups.json",
+		"/D/installed-games/minecraft/hsa winter server/server.properties",
+		"/D/installed-games/minecraft/hsa winter server/log4j2.xml",
+		"/D/installed-games/minecraft/hsa winter server/local/ftbu/config.json",
+		"/D/installed-games/minecraft/hsa winter server/ops.json",
+		"/D/installed-games/minecraft/hsa winter server/whitelist.json",
+		"/D/installed-games/minecraft/hsa winter server/settings.sh",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/techreborn/main.cfg",
+		"/D/installed-games/minecraft/hsa winter server/ServerStart.sh",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/brandon3055/DraconicEvolution.cfg",
+		"/D/etc/WinPython-64bit-3.4.4.3Qt5/notebooks/minecraft.proper6.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/techreborn/ores.hjson",
+		"/D/FTB/Curse/Instances/FTB Presents Direwolf20 1.10/config/immersiveengineering.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/Elec's Mods/ElecCore.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/enderio/EnderIO.cfg",
+		"/C/Users/Peer/AppData/Local/Temp/Temp1_FTBInventions-1.0.2-1.7.10.zip/overrides/config/TechReborn.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/logs/fml-client-latest.log",
+		"/D/FTB/Curse/Instances/HSA Winter 16/orespawn/minecraft.proper3.json.shit",
+		"/D/etc/WinPython-64bit-3.4.4.3Qt5/notebooks/minecraft.proper4.json",
+		"/D/etc/WinPython-64bit-3.4.4.3Qt5/notebooks/minecraft.proper.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/orespawn/minecraft.origional.json",
+		"/D/etc/WinPython-64bit-3.4.4.3Qt5/notebooks/minecraft.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/orespawn/minecraft.proper3.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/orespawn/orespawn.json",
+		"/D/etc/WinPython-64bit-3.4.4.3Qt5/notebooks/minecraft.proper3.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/orespawn.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/orespawn/minecraft.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/modpack/packmodes.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/scripts/InfinityLite.zs",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/AppliedEnergistics2/Facades.cfg",
+		"/D/FTB/Curse/Instances/HSA Winter 16/minetweaker.log",
+		"/D/down/chorme/subscription_manager.xml",
+		"/D/owncloud/bachelor/checkpoints/nes_a3c_2/scores.txt",
+		"/C/Users/Peer/Documents/Paradox Interactive/Stellaris/mod/easyedict/common/edicts/00_edicts.txt",
+		"/C/Users/Peer/Documents/Paradox Interactive/Stellaris/mod/easyedict.mod",
+		"/D/installed-games/Stellaris/steam_api.ini",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/orespawn/minecraft.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/config/tconstruct.cfg",
+		"/D/installed-games/minecraft/FTBInfinityLite110-1.0.1-1.10.2/manifest.json",
+		"/C/Users/Peer/AppData/Local/Temp/Temp1_FTBInfinityLite110-1.0.1-1.10.2.zip/manifest.json",
+		"/C/Users/Peer/AppData/Local/Temp/Temp1_FTBInfinityLite110-1.0.1-1.10.2.zip/overrides/scripts/InfinityLite.zs",
+		"/D/FTB/Curse/Instances/HSA Winter 16/minecraftinstance.json",
+		"/D/FTB/Curse/Instances/HSA Winter 16/manifest.json",
+		"/D/FTB/Curse/Instances/FTB Infinity Lite 1.10 (1)/manifest.json",
+		"/C/Users/Peer/.x2go/etc/sshd_config",
+		"/C/Program Files/OpenVPN/config/openvpn-hs-augsburg.ovpn",
+		"/D/neslearn/openaigym/openaigym.video.0.2608.video000000.meta.json",
+		"/D/neslearn/openaigym/openaigym.manifest.0.2608.manifest.json",
+		"/D/neslearn/openaigym/openaigym.episode_batch.0.2608.stats.json",
+		"/D/neslearn/openaigym/openaigym.video.0.2608.video000001.meta.json",
+		"/D/neslearn/openaigym/openaigym.episode_batch.0.2587.stats.json",
+		"/D/HS/bachelor/FCEUX_Learning_Environment/INSTALL",
+		"/D/HS/bachelor/FCEUX_Learning_Environment/setup.py",
+		"/D/HS/bachelor/FCEUX_Learning_Environment/nes_python_interface/nes_python_interface.py",
+		"/D/Documente/keys/daenerys",
+		"/D/HS/bachelor/FCEUX_Learning_Environment/SConstruct",
+		"/D/HS/bachelor/FCEUX_Learning_Environment/documentation/porting.txt",
+		"/D/HS/bachelor/FCEUX_Learning_Environment/changelog.txt",
+		"/C/bin/scons-2.5.0/setup.cfg",
+		"/C/Users/Peer/AppData/Local/Temp/Temp1_GTSRB_Python_code.zip/Python code for GTSRB/readTrafficSigns.py",
+		"/D/FTB/Curse/Instances/Hsa Herbst/config/techreborn/ores.hjson",
+		"/D/owncloud/notes/vpn.txt",
+		"/D/FTB/Curse/Instances/Hsa Herbst/config/routerreborn.cfg",
+		"/D/FTB/Curse/Instances/FTB Unstable 1.9/config/UniDict.cfg"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<current file>",
+			"",
+			"scores.xt",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"silver",
+			"orespawn",
+			"rf",
+			"tool",
+			"coffe",
+			"world",
+			"explode",
+			"copper",
+			"gen",
+			"world",
+			"gen",
+			"orespawn",
+			"OreSpawn",
+			"orespawn",
+			"minecraft",
+			"true",
+			"stdev",
+			".",
+			"copper",
+			"tin",
+			"stable",
+			"4917691429506",
+			"retr",
+			"gen",
+			"worldgen",
+			"gen",
+			"TransferDuplicatePokemon ",
+			"KeepMinDuplicatePokemon",
+			"scyther",
+			"long",
+			"diff",
+			"diffi",
+			"easy_research",
+			"the martian",
+			"martian",
+			"grifi",
+			"malloc",
+			"10000",
+			"furnace",
+			"alloy",
+			"1.0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"false",
+			",",
+			"5000",
+			"2.0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/ludum_cljs/core.cljs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeREPL/config/ClojureScript/clojurescript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/ludum_cljs/simulation.cljs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeREPL/config/ClojureScript/clojurescript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 125.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 25.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
